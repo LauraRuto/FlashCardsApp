@@ -7,7 +7,7 @@
 Week 4: Add a creation screen in which user can type in question and answer to create new flashcard
 
 ### App Walk-though
-
+http://g.recordit.co/s34a0Bhl5R.gif
 
 ## Required
 - [x] User can open the creation screen
