@@ -1,6 +1,24 @@
 
 ## FlashCardsApp
 
+## Lab 3
+
+### App Description
+Week 5: Create a set of flashcards and browse through them
+
+### App Walk-though
+(http://g.recordit.co/1tmIkoi4Jc.gif)
+
+## Required
+- [x] User can browse through multiple flashcards
+- [x] User can re-open the app and see previously created flashcards
+- [x] Push code to GitHub
+## Optional
+- [] User can delete a flashcard
+- [] User can edit existing flashcard
+- [] User can store multiple choice questions
+
+
 ## Lab 2
 
 ### App Description
@@ -20,6 +38,7 @@ http://g.recordit.co/GtCmysHE9s.gif (Optional Stories)
 - [x] User gets an error if they try to create a new flashcard with no question or answer
 - [x] User can edit existing flashcard
 - [ ] User can add multiple choice answers in the creation screen
+
 
 ## Lab 1
 
