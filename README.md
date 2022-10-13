@@ -7,7 +7,7 @@
 Week 5: Create a set of flashcards and browse through them
 
 ### App Walk-though
-(http://g.recordit.co/1tmIkoi4Jc.gif)
+(http://g.recordit.co/1gwx8MTv6A.gif)
 
 ## Required
 - [x] User can browse through multiple flashcards
